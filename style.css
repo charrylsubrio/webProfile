@@ -76,3 +76,9 @@ h4 {
     margin-bottom: 0px;
     padding-bottom: 0px;
 }
+
+.skills {
+    width: 48%;
+    float: left;
+    padding-left: 16px;
+}
